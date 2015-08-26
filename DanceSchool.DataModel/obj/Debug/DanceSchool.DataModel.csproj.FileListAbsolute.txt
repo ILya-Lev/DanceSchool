@@ -1,0 +1,15 @@
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\DanceSchool.DataModel.dll.config
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\DanceSchool.DataModel.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\DanceSchool.DataModel.pdb
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\DanceSchool.Classes.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\EntityFramework.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\DanceSchool.Classes.pdb
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\EntityFramework.xml
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\obj\Debug\DanceSchool.DataModel.csprojResolveAssemblyReference.cache
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\obj\Debug\DanceSchool.DataModel.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\obj\Debug\DanceSchool.DataModel.pdb
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\obj\Debug\DanceSchool.DataModel.Migrations.Initial.resources
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\obj\Debug\DanceSchool.DataModel.csproj.GenerateResource.Cache
+L:\programming\study\C#\DanceSchool\DanceSchool.DataModel\obj\Debug\DanceSchool.DataModel.Migrations.RequiredAttribAdded.resources

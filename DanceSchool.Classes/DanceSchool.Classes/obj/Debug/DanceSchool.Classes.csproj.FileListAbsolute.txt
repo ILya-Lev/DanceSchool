@@ -1,0 +1,4 @@
+L:\programming\study\C#\DanceSchool\DanceSchool.Classes\DanceSchool.Classes\bin\Debug\DanceSchool.Classes.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.Classes\DanceSchool.Classes\bin\Debug\DanceSchool.Classes.pdb
+L:\programming\study\C#\DanceSchool\DanceSchool.Classes\DanceSchool.Classes\obj\Debug\DanceSchool.Classes.dll
+L:\programming\study\C#\DanceSchool\DanceSchool.Classes\DanceSchool.Classes\obj\Debug\DanceSchool.Classes.pdb
